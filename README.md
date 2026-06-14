@@ -35,9 +35,8 @@ Current Build:
 v0.0.1a Alpha
 
 Development Status:
-Non active Development
+Active Development
 
-Devolopment starts on: 14th June 2026
 
 ========================================
 
