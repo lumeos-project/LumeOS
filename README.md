@@ -1,8 +1,5 @@
-README
+README of LumeOS
 ========================================
-
-LumeOS
-
 Version: v0.0.1a (Alpha)
 
 Welcome to the first spark of LumeOS.
@@ -41,6 +38,7 @@ Development Status:
 Non active Development
 
 Devolopment starts on: 14th June 2026
+
 ========================================
 
 GitHub
